@@ -18,11 +18,11 @@
 #     def salomlashish(self, kimdur):
 #         print("Assalomu aleykum", kimdur, self.name)
 
-class Animal(): 
-  def __init__(self, nomi):
-    self.name = nomi
-class Yirqich(Animal):
-  def ovlash(self):
-    print(self, "ovlaydida")
+# class Animal(): 
+#   def __init__(self, nomi):
+#     self.name = nomi
+# class Yirqich(Animal):
+#   def ovlash(self):
+#     print(self, "ovlaydida")
 
-Yirqich.ovlash("sher")
+# Yirqich.ovlash("sher")
